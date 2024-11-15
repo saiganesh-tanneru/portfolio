@@ -20,7 +20,7 @@ const RecentProjects = () => {
                     >
                         <PinContainer
                             title={"visit"}
-                            href={"http://www.google.com"}
+                            href={item.link}
                         >
                             <div className="relative flex items-center justify-center sm:w-[570px] w-[80vw] overflow-hidden h-[30vh] lg:h-[30vh] mb-10 sm:h-[40vh]">
                                 <div
