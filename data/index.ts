@@ -173,28 +173,28 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "UI Developer",
+        title: "UI Developer - CIED Technologies",
         desc: "Designed responsive web pages with React, Redux, and JavaScript, developed SPAs, and implemented drag-and-drop and Google Maps features in an agile environment.",
         className: "md:col-span-2",
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "React/ React Native Developer",
+        title: "React/ React Native Developer - Wells Fargo",
         desc: "Developed mobile apps for Android and iOS, optimized performance, and created an e-commerce platform with ReactJS, Redux, Node.js, and MongoDB.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
-        title: "React Developer",
+        title: "React Developer - OPTUM",
         desc: "Developed accessible websites with React.js, optimized performance, integrated APIs with Redux, and mentored team members in an Agile environment.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp3.svg",
     },
     {
         id: 4,
-        title: "UI Developer",
+        title: "UI Developer - Albertsons",
         desc: "Design and develop responsive SPAs using React.js, Next.js, and .NET, with GraphQL, SSR/SSG, and Redux in an agile environment.",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
